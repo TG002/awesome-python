@@ -1,6 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
+Bitte sende eine Mail an: liblings.kollege@firma.com
 
 ## Guidelines
 
